@@ -1,0 +1,5860 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-28 23:43+0200\n"
+"PO-Revision-Date: 2016-07-29 00:54+0200\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+
+#: shared_settings.py:23
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:82
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: shared_settings.py:24
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:54
+msgid "English"
+msgstr "Engels"
+
+#: accounts/models.py:6
+msgid "First Name"
+msgstr "Voornaam"
+
+#: accounts/models.py:7
+msgid "Initials"
+msgstr "Voorletters"
+
+#: accounts/models.py:8
+msgid "Surname"
+msgstr "Achternaam"
+
+#: accounts/models.py:9
+msgid "Email Address"
+msgstr "E-mail adres"
+
+#: accounts/models.py:10
+msgid "Street"
+msgstr "Straatnaam"
+
+#: accounts/models.py:11
+msgid "Number"
+msgstr "Huisnummer"
+
+#: accounts/models.py:12
+msgid "Suffix"
+msgstr "Achtervoegsel"
+
+#: accounts/models.py:13
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: accounts/models.py:14
+msgid "City"
+msgstr "Stad"
+
+#: accounts/models.py:15
+msgid "I would like to be receive project updates by e-mail:"
+msgstr "Ik wil graag op de hoogte gehouden worden via e-mail:"
+
+#: questionnaire/models.py:6
+msgid "How did you get the idea to buy PV panels and install them?"
+msgstr ""
+"Hoe bent U op het idee gekomen zonnepanelen te kopen en te installeren?"
+
+#: questionnaire/models.py:8
+msgid "I want to solve World's energy crisis and/or prevent global warming"
+msgstr ""
+"Ik wil meehelpen aan het oplossen van de energiecrisis en/of de opwarming "
+"van de aarde"
+
+#: questionnaire/models.py:9
+msgid "I want to make profit"
+msgstr "Ik wil winst maken"
+
+#: questionnaire/models.py:10
+msgid "Both"
+msgstr "Beide"
+
+#: questionnaire/models.py:12
+msgid "How long have you owned a solar panel system?"
+msgstr "Hoe lang bent U in het in het bezit van zonnepanelen?"
+
+#: questionnaire/models.py:14
+msgid "Less than 6 months"
+msgstr "Minder dan 6 maanden"
+
+#: questionnaire/models.py:15
+msgid "Between 6 months and 1 year"
+msgstr "Tussen de 6 maanden en 1 jaar"
+
+#: questionnaire/models.py:16
+msgid "Between 1 year and 2 years"
+msgstr "Tussen de 1 en 2 jaar"
+
+#: questionnaire/models.py:17
+msgid "Between 2 and 5 years"
+msgstr "Tussen de 2 en 5 jaar"
+
+#: questionnaire/models.py:18
+msgid "More than 5 years"
+msgstr "Meer dan 5 jaar"
+
+#: questionnaire/models.py:20
+msgid "How much capacity do you have currently installed?"
+msgstr "Hoeveel capaciteit heeft U momenteel geinstalleerd?"
+
+#: questionnaire/models.py:22
+msgid "Less than 0,6 kW"
+msgstr "Minder dan 0,6 kW"
+
+#: questionnaire/models.py:23
+msgid "Between 0,6 kW and 3.5 kW"
+msgstr "Tussen de 0,6 kW en 3,5 kW"
+
+#: questionnaire/models.py:24
+msgid "Between 3.5 kW and 15 kW"
+msgstr "Tussen de 3,5 kW en de 15 kW"
+
+#: questionnaire/models.py:25
+msgid "More than 15 kW"
+msgstr "Meer dan 15 kW"
+
+#: questionnaire/models.py:27
+msgid ""
+"Are you currently selling or have you ever sold electricity to the national "
+"grid since you have installed the solar panels?"
+msgstr ""
+"Heeft U stroom teruggeleverd aan het landelijke stroomnet sinds U uw "
+"zonnepanelen heeft geinstalleerd?"
+
+#: questionnaire/models.py:29 questionnaire/models.py:36
+#: questionnaire/models.py:57 questionnaire/models.py:70
+#: questionnaire/models.py:85 questionnaire/models.py:91
+#: questionnaire/models.py:105
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:147
+#: venv/lib/python2.7/site-packages/django/forms/widgets.py:469
+msgid "Yes"
+msgstr "Ja"
+
+#: questionnaire/models.py:30
+msgid "No (skip the next question)"
+msgstr "Nee (Sla de volgende vraag over)"
+
+#: questionnaire/models.py:32
+msgid ""
+"Could you give an estimate of the electrity in kWh you have sold last year "
+"(digits only)?"
+msgstr ""
+"Kunt U een schatting maken van de hoeveelheid electriciteit die  U vorig "
+"jaar heeft verkocht in kWh? (alleen cijfers invoeren)"
+
+#: questionnaire/models.py:34
+msgid "Do you receive support from the SDE?"
+msgstr "Ontvangt U subsidie via de SDE?"
+
+#: questionnaire/models.py:37 questionnaire/models.py:58
+#: questionnaire/models.py:86 questionnaire/models.py:92
+#: questionnaire/models.py:106
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:147
+#: venv/lib/python2.7/site-packages/django/forms/widgets.py:469
+msgid "No"
+msgstr "Nee"
+
+#: questionnaire/models.py:38
+msgid "My application is still in process"
+msgstr "Mijn aanvraag wordt nog verwerkt"
+
+#: questionnaire/models.py:40
+msgid "Do you currently have performance monitoring done on your PV system?"
+msgstr "Heeft U momenteel prestatie monitoring op uw zonnepanelen?"
+
+#: questionnaire/models.py:42
+msgid "I do it myself"
+msgstr "Ik doe het zelf"
+
+#: questionnaire/models.py:43
+msgid "I have external company doing this for me"
+msgstr "Ik maak gebruik van een extern bedrijf"
+
+#: questionnaire/models.py:44
+msgid "I have no performance monitoring"
+msgstr "Ik heb geen prestatie monitoring"
+
+#: questionnaire/models.py:46
+msgid "What type of metering  equipment do you have?"
+msgstr "Wat voor meetapparatuur heeft U?"
+
+#: questionnaire/models.py:48
+msgid "Analog meter"
+msgstr "Een analoge meter"
+
+#: questionnaire/models.py:49
+msgid "Digital meter - with internet connection"
+msgstr "Een digitale meter - met een internetverbinding"
+
+#: questionnaire/models.py:50
+msgid "Digital meter - without internet connection"
+msgstr "Een digitale meter - zonder een internetverbinding"
+
+#: questionnaire/models.py:52
+msgid ""
+"What is the brand and model of your metering equipment?\n"
+" Brand:"
+msgstr ""
+"Wat is het merk en model van uw meetapparatuur?\n"
+" Merk:"
+
+#: questionnaire/models.py:53
+msgid "Model:"
+msgstr "Model:"
+
+#: questionnaire/models.py:55
+msgid "Does your inverter have an internet function?"
+msgstr "Heeft uw omvormer internetfunctionaliteit?"
+
+#: questionnaire/models.py:59
+msgid "I don't know"
+msgstr "Ik weet het niet"
+
+#: questionnaire/models.py:61
+msgid "What kind of internet connection do you have in your home?"
+msgstr "Wat voor een internetverbinding heeft U in huis?"
+
+#: questionnaire/models.py:63
+msgid "Dial-up (56k)"
+msgstr "Inbelverbinding (56k)"
+
+#: questionnaire/models.py:64
+msgid "ISDN"
+msgstr "ISDN"
+
+#: questionnaire/models.py:65
+msgid "Broadband (ADSL, fiber, cable)"
+msgstr "Breedbandverbinding (ADSL, glasvezel, kabel)"
+
+#: questionnaire/models.py:66
+msgid "Satellite internet"
+msgstr "Satellietverbinding"
+
+#: questionnaire/models.py:68
+msgid ""
+"Did you ever experience any malfunctioning of the solar panels since "
+"installation?"
+msgstr ""
+"Heeft U sinds de installatie van uw zonnepanelen last van defecten gehad?"
+
+#: questionnaire/models.py:71
+msgid "No (Skip next 2 question)"
+msgstr "Nee (Sla de volgende 2 vragen over)"
+
+#: questionnaire/models.py:73
+msgid "How did you discover that your system was not functioning well?"
+msgstr "Hoe heeft U ontdekt dat uw systeem niet naar behoren functioneerde?"
+
+#: questionnaire/models.py:75
+msgid "By regularly checking the meter"
+msgstr "Door regelmatig de meter te controleren"
+
+#: questionnaire/models.py:76
+msgid "Through the electricity bill"
+msgstr "Door bestudering van de energienota"
+
+#: questionnaire/models.py:77
+msgid "By checking the display on the inverter"
+msgstr "Door het display van de omvormer te controleren"
+
+#: questionnaire/models.py:79
+msgid ""
+"How many times did you have to call a maintenance firm to repair any "
+"malfunctioning of the system?"
+msgstr ""
+"Hoe vaak heeft U een onderhoudsbedrijf moeten bellen om gebreken te "
+"repareren?"
+
+#: questionnaire/models.py:81
+msgid "Could you give an estimate of your yearly maintenance costs?"
+msgstr "Kunt U een schatting geven van uw jaarlijke onderhoudskosten?"
+
+#: questionnaire/models.py:83
+msgid ""
+"Would you be interested in constant monitoring of the solar panels to "
+"optimize performance and reduce risk of lower yields?"
+msgstr ""
+"Zou U geinterreseerd zijn in constante monitoring van uw zonnepanelen om "
+"optimale prestatie te garanderen en het risico op lage opbrengsten te "
+"minimaliseren?"
+
+#: questionnaire/models.py:89
+msgid ""
+"In the web-portal, together with other information, there will be tips on "
+"how to improve the efficiency of your PV system, Do it yourself manuals, FAQ "
+"over most common malfunctions, recommended list of producers of latest, more "
+"efficient and reliable PV equipment - would that stimulate you to "
+"participate?"
+msgstr ""
+"Op het web portaal, naast andere informatie, kunt U straks tips vinden over "
+"hoehet rendement van uw zonnepanelen verbeterd kan worden, doe-het-zelf "
+"handleidingen, Veelgestelde Vragen over veel voorkomende defecten, en de "
+"laatste ontwikkelingen op het gebied van zonnepanelen. Zou dat U stimuleren "
+"te participeren in het project?"
+
+#: questionnaire/models.py:94
+msgid ""
+"How much would you be willing to pay per year (in euros) to be a member of "
+"the Virtual PV Plant? (digits only, decimals after a dot)"
+msgstr ""
+"Hoeveel bent U evt. bereid jaarlijks te betalen om lid te zijn van de "
+"Virtuele zonnestroomcentrale? (alleen cijfers, decimalen na een punt)"
+
+#: questionnaire/models.py:95
+msgid ""
+"Instead of a fixed amount, we could ask for a percentage of you yearly "
+"revenues selling electricity instead. What would you consider a fair "
+"percentage? (digits only, decimals after a dot)"
+msgstr ""
+"In plaats van een vast bedrag kunnen we ook een percentage vragen van de "
+"opbrengsten van uw zonnepanelen. Wat zou U als een schappelijk percentage "
+"zien? (alleen cijfers, decimalen na een punt)"
+
+#: questionnaire/models.py:96
+msgid "What would be your prefered pay option?"
+msgstr "Welke contributiemethode spreekt U het meest aan?"
+
+#: questionnaire/models.py:98
+msgid "Fixed Amount"
+msgstr "Een vast bedrag per jaar"
+
+#: questionnaire/models.py:99
+msgid "Percentage of revenue"
+msgstr "Een percentage van de opbrengst"
+
+#: questionnaire/models.py:101
+msgid ""
+"What would be your motivation to join (or not to join) the virtual PV Plant?"
+msgstr ""
+"Wat zijn uw redenen om wel of niet deel te nemen aan de virtuele "
+"zonnestroomcentrale"
+
+#: questionnaire/models.py:103
+msgid ""
+"Would you be willing to spread the word to other PV panel owners of this "
+"system?"
+msgstr ""
+"Bent U bereid mond-op-mond reclame voor de virtuele zonnestroomcentrale "
+"maken?"
+
+#: templates/404.html:11
+msgid "The web page you requested is unavailable."
+msgstr "De door U opgevraagde pagina is niet beschikbaar."
+
+#: templates/about.html:5 templates/parent.html:47
+msgid "About"
+msgstr "Colofon"
+
+#: templates/about.html:7
+msgid "The project"
+msgstr "Het project"
+
+#: templates/about.html:10
+msgid ""
+"\n"
+"Plans for a Virtual PV plant have been circulating within <REDACTED> for "
+"some time now. Recently funds were made available through the merger with "
+"<REDACTED> Nederland to research the possibilities. This project is a "
+"collaboration between REDACTED. Preliminary research is done by four "
+"students of the masters Sustainable Development and Energy Science, as part "
+"of their Consultancy Project. This website is part of that preliminary "
+"research and will be the start of the project in the future. Our main "
+"research goal is to determine if there is sufficient need for the project.\n"
+msgstr ""
+"\n"
+"Al lange tijd worden er binnen REDACTED plannen geopperd om een virtuele "
+"zonnestroomcentrale te ontwikkelen. Recent zijn er fondsen vrijgekomen "
+"dankzij een samenwerking met REDACTED om in Nederland de mogelijkheden te "
+"onderzoeken.\n"
+"Dit project is een samenwerkingsverband tussen REDACTED.\n"
+"Een vooronderzoek wordt nu uitgevoerd door vier studenten van de masters "
+"Sustainable Development en Energy Science, in het kader van het vak "
+"'Consultancy Project'.\n"
+"Deze website is onderdeel van dit vooronderzoek en is een opstap naar het "
+"grotere project in de toekomst.\n"
+"Het belangrijkste doel van dit vooronderzoek is om te bepalen of er genoeg "
+"draagvlak is voor het project.\n"
+
+#: templates/about.html:16
+msgid "Project Team"
+msgstr "Projectleden"
+
+#: templates/about.html:19
+msgid ""
+"\n"
+"Our project team consists of:\n"
+msgstr ""
+"\n"
+"Ons team bestaat uit de volgende leden:\n"
+
+#: templates/about.html:53
+msgid "Website"
+msgstr "Website"
+
+#: templates/about.html:55
+msgid ""
+"\n"
+"This website is developed and maintained by <a href=\"/contact.html\">Paul "
+"Frederiks</a>.\n"
+"It is hosted at <a href=\"http://www.quantact.com\">Quantact</a> using the "
+"OpenVZ 128 plan. The site is developed using the <a href=\"http://www."
+"djangoproject.com\">Django Framework</a>. The design is based on a "
+"stylesheet made publicly available by <a href=\"http://www.contenteddesigns."
+"org\">Contended Design</a>.\n"
+msgstr ""
+"\n"
+"Deze website is ontwikkeld en wordt onderhouden door <a href=\"/contact.html"
+"\">Paul Frederiks</a>.Het wordt gehost bij <a href=\"http://www.quantact.com"
+"\">Quantact</a>, gebruik makend van het OpenVZ 128 plan. De site is "
+"ontwikkeld met behulp van het  <a href=\"http://www.djangoproject.com"
+"\">Django raamwerk</a>. Het ontwerp is gebaseerd op een publieke stylesheet "
+"van <a href=\"http://www.contenteddesigns.org\">Contended Design</a>.\n"
+
+#: templates/index.html:5 templates/parent.html:39
+msgid "Introduction"
+msgstr "Introductie"
+
+#: templates/index.html:8
+msgid ""
+"\n"
+"Photovoltaic solar power will be of key importance in the transition to a "
+"renewable energy society in the Netherlands. PV power plants can vary from "
+"small to very large sized installations, de facto being decentralized power "
+"plants. This is in contrast to fossil fueled power plants that traditionally "
+"are centralized power plants. Installing more and more PV plants will shift "
+"electricity generation from a centralized to a decentralized system.\n"
+msgstr ""
+"\n"
+"Fotovoltaïsche zonnestroom zal van groot belang zijn bij de overgang naar "
+"een duurzame samenleving in Nederland. Zonnestroomcentrales kunnen variëren "
+"van klein naar zeer groot, de facto zijn het gedecentraliseerde "
+"stroomcentrales. Dit in tegenstelling tot conventionele centrales die groot "
+"en gecentraliseerd zijn. Indien er meer zonnestroomcentrales worden "
+"geïnstalleerd zal electriciteitsproductie van een gecentraliseerd naar een "
+"gedecentraliseerd systeem over gaan.\n"
+
+#: templates/index.html:13
+msgid ""
+"\n"
+"Presently in the Netherlands there are many private PV panel owners who "
+"produce small amounts of electricity. These PV installations do not always "
+"operate at optimum performance. Small malfunctions are hard to notice by "
+"studying your electricity bill alone. In a future where solar power directly "
+"competes with conventional power another issue emerges. When individual PV "
+"owners need to negotiate on trading their generated electricity with large "
+"energy companies, they will have a disadvantage. The energy company will "
+"have far better information about the current market situation. A Virtual PV "
+"Plant, uniting many individual PV owners, might be the solution to address "
+"these issues.\n"
+msgstr ""
+"\n"
+"Tegenwoordig kent Nederland vele eigenaren van zonnepanelen die kleine "
+"hoeveelheden electriciteit produceren. Deze zonnestroominstallatie werken "
+"niet altijd optimaal. Kleine gebreken zijn moeilijk op te merken als je "
+"alleen naar de energierekening kijkt. Als in de toekomst zonnestroom direct "
+"met conventionele stroom concurreert, speelt er nog een andere kwestie. "
+"Wanneer individuele zonnepaneeleigenaren moeten onderhandelen met "
+"energiemaatschappijen, zijn zij in het nadeel. De energiemaatschappijen "
+"hebben veel betere informatie over de actuele situatie op de energiemarkt. "
+"Een virtuele zonnestroomcentrale, die meerdere individuele "
+"zonnepaneeleigenaren samenbrengt, kan een oplossing zijn voor deze "
+"kwesties.\n"
+
+#: templates/index.html:18
+msgid "What is a virtual PV Plant?"
+msgstr "Wat is een virtuele zonnestroomcentrale?"
+
+#: templates/index.html:19
+msgid ""
+"\n"
+"A virtual PV plant is a web portal where electricity production data of a "
+"large number of individual PV panels is collected, aggregated and analyzed. "
+"PV panel owners will be able to monitor the performance of their panels "
+"through the web. If malfunctioning is detected owners are notified by email "
+"or other means. In the future a Virtual PV Plant could act as a cooperation, "
+"selling electricity for better prices than individuals can.\n"
+msgstr ""
+"\n"
+"Een virtuele zonnestroomcentrale is een web-portaal waar productiegegevens "
+"van een groot aantal zonnepanelen\n"
+"in het land wordt verzameld, samengevoegd en geanalyseerd.\n"
+"Eigenaren van zonnepanelen kunnen daarmee de prestaties van hun panelen "
+"controleren op het internet.\n"
+"Wanneer er gebreken worden geconstateerd, ontvangt een eigenaar bericht per "
+"e-mail.\n"
+"In de toekomst kan de virtuele zonnestroomcentrale als een coöperatie "
+"handelen, door electriciteit voor een goede prijs te verkopen.\n"
+
+#: templates/index.html:23
+msgid "Preliminary research"
+msgstr "Vooronderzoek"
+
+#: templates/index.html:25
+msgid ""
+"\n"
+"Before this project can be started we need to know if their is sufficient "
+"basis.\n"
+"Another question is how the project should be funded.\n"
+"To answer these questions a preliminary study is done at the Utrecht "
+"University.\n"
+"Part of that study is to reach as many dutch PV owners to do a questionnaire "
+"on our project.\n"
+"As an incentive we give away two solar powered gadgets to our respondents in "
+"a raffle.\n"
+"If you are a PV owner please proceed to our description of our prizes.\n"
+msgstr ""
+"\n"
+"Voor dat aan de virtuele zonnstroomcentrale gewerkt kan worden, willen wij "
+"bepalen of er voldoende draagvlak is.\n"
+"Tevens moet het nog duidelijk worden hoe dit project gefinancierd gaat "
+"worden.\n"
+"Om deze vragen te beantwoorden wordt er nu een vooronderzoek gedaan op de "
+"Universiteit Utrecht.\n"
+"Een enquête die zoveel mogelijk zonnepaneeleigenaren moet bereiken is "
+"onderdeel van deze studie.\n"
+"Om u te stimuleren mee te doen geven wij twee gadgets op zonne-energie weg "
+"bij een trekking onder onze respondenten.\n"
+"Bent U een eigenaar van zonnepanelen? Ga dan verder naar de beschrijving van "
+"onze prijzen.\n"
+
+#: templates/index.html:33
+msgid ""
+"Before you are able to fill out the questionnaire we would like you to "
+"register first."
+msgstr "Voordat je de enquete invult, moet je je registreren"
+
+#: templates/index.html:36
+msgid "Show me the prizes >>>"
+msgstr "Laat me de prijzen zien >>>"
+
+#: templates/parent.html:5
+msgid "Research Project: Virtual PV Plant"
+msgstr "Virtuele Zonnestroomcentrale"
+
+#: templates/parent.html:26 templates/questionnaire/thanks.html:11
+#: venv/django/contrib/admin/templates/admin/base.html:48
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:3
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:4
+msgid "Log out"
+msgstr "Afmelden"
+
+#: templates/parent.html:31
+msgid "Virtual PV Plant"
+msgstr "Virtuele Zonnestroomcentrale"
+
+#: templates/parent.html:33
+msgid "Research on the development of a virtual PV Plant in the Netherlands"
+msgstr "Ontwikkeling van een virtuele zonnestroomcentrale in Nederland"
+
+#: templates/parent.html:40 templates/prizes.html:5
+msgid "Prizes"
+msgstr "Prijzen"
+
+#: templates/parent.html:42 templates/profile.html:5
+msgid "Profile"
+msgstr "Profiel"
+
+#: templates/parent.html:44 templates/register.html:11
+#: templates/register.html.py:22
+msgid "Register"
+msgstr "Aanmelden"
+
+#: templates/parent.html:46 templates/questionnaire/index.html:15
+#: templates/questionnaire/not_logged_in.html:5
+msgid "Questionnaire"
+msgstr "Enquête"
+
+#: templates/parent.html:63
+msgid "Utrecht University"
+msgstr "Universiteit Utrecht"
+
+#: templates/parent.html:67
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/prizes.html:9
+msgid ""
+"\n"
+"We will hold a raffle for everyone who participates in our survey.\n"
+"We have two prizes to give away.\n"
+"The first is a solar charger for mobile phones and everything with an USB "
+"charge connector.\n"
+"The second prize is a toy orangutan that can climb ropes on solar power.\n"
+msgstr ""
+"\n"
+"Een ieder die onze enquête invult maakt kans op een zonne-energie gadget.\n"
+"We hebben twee prijzen om weg te geven.\n"
+"De eerste prijs is een oplader die vele mobiele telefoons en alles met een "
+"USB aansluiting kan opladen.\n"
+"De tweede prijs is een speelgoed Oerang-oetan die touw kan klimmen op zonne-"
+"energie.\n"
+
+#: templates/prizes.html:18
+msgid "Draw"
+msgstr "Trekking"
+
+#: templates/prizes.html:20
+msgid ""
+"\n"
+"Every respondent before june 14th who has given a valid contact data and "
+"filled out the questionnaire is included in the drawing of the winner.\n"
+"We will notify the winners per e-mail and send out the prizes by mail.\n"
+msgstr ""
+"\n"
+"Iedereen die voor 14 juni 2009 zich heeft aangemeld met juiste "
+"contactgegevens en de enquête heeft ingevuld, maakt kans op deze prijzen.\n"
+"We zullen de winnaars per e-mail berichten en per post de prijs toesturen.\n"
+
+#: templates/prizes.html:24
+msgid "I would like to register as a respondent >>>"
+msgstr "Ik wil me graag aanmelden voor de enquête >>>"
+
+#: templates/profile.html:8
+msgid ""
+"\n"
+"Thank you for taking the time to help us in our research.\n"
+"First we would like to have your contact data.\n"
+"Without it you won't win any of our prizes.\n"
+"Your personal data will be handled carefully and we won't supply it to third "
+"parties.\n"
+"We will only send you information by email if you tick the last box.\n"
+"If you still rather stay anonymous,\n"
+msgstr ""
+"\n"
+"Alvast bedankt dat U ons wilt helpen met ons onderzoek.\n"
+"Allereerst willen we graag uw contactgegevens hebben.\n"
+"Zonder deze gegevens maakt U geen kans op de prijzen.\n"
+"Uw persoonlijke gegevens zullen zorgvuldig worden behandeld en we zullen ze "
+"niet aan derden verstrekken.\n"
+"We zullen U alleen per e-mail benaderen als U het vinkje onderaan laat "
+"staan.\n"
+"Als je toch liever anoniem blijft,\n"
+
+#: templates/profile.html:16
+msgid "just go straight to the questionnaire."
+msgstr "ga dan direct naar de enquête."
+
+#: templates/profile.html:52
+msgid "Submit"
+msgstr "Wijzigen"
+
+#: templates/register.html:6
+msgid ""
+"\n"
+"Here you will be able to either register as a new respondent or login if you "
+"already registered.\n"
+msgstr ""
+"\n"
+"Hier kunt U zich aanmelden als deelnemer aan de enquête of inloggen als U "
+"zich al eerder heeft aangemeld.\n"
+
+#: templates/register.html:14
+msgid ""
+"\n"
+"Sorry, your registration could not be processed.\n"
+msgstr ""
+"\n"
+"Helaas, Uw aanmelding kon niet verwerkt worden.\n"
+
+#: templates/register.html:27 templates/register.html.py:39
+msgid "Login"
+msgstr "Inloggen"
+
+#: templates/register.html:31
+msgid ""
+"\n"
+"Sorry, this user name and/or password is not recognized. Please register as "
+"a new user or try again.\n"
+msgstr ""
+"\n"
+"Het spijt ons, maar deze gebruiker of het wachtwoord in onbekend. Gaarne als "
+"nieuwe gebruiker registreren, of opnieuw proberen.\n"
+
+#: templates/questionnaire/index.html:8
+msgid ""
+"\n"
+"Unfortunately not all of your answers could be processed.\n"
+"Please check your answers.\n"
+msgstr ""
+"\n"
+"Helaas konden uw antwoorden niet verwerkt worden.\n"
+"Controleer uw antwoorden, alstublieft.\n"
+
+#: templates/questionnaire/index.html:18
+msgid ""
+"\n"
+"Below are the questions we would like to ask you.\n"
+"If you can't answer all questions right now,\n"
+"please make a guess and log in later to change your answers.\n"
+msgstr ""
+"\n"
+"Hieronder staan de vragen die we U graag willen stellen.\n"
+"Als U niet alle antwoorden bij de hand heeft,\n"
+" dan kunt U later opnieuw inloggen en het antwoord aanpassen.\n"
+
+#: templates/questionnaire/not_logged_in.html:8
+msgid ""
+"\n"
+"You are currently not signed in.\n"
+"Before you can do our questionnaire you need to register as a respondent.\n"
+msgstr ""
+"\n"
+"U bent momenteel niet ingelogd.\n"
+"Voordat U de enquête kunt invullen moet U zich aanmelden.\n"
+
+#: templates/questionnaire/not_logged_in.html:14
+msgid "I would like to sign in."
+msgstr "Ik wil me graag aanmelden."
+
+#: templates/questionnaire/not_logged_in.html:15
+msgid "Remind me why I should participate."
+msgstr "Laat me zien waarom ik moet deelnemen."
+
+#: templates/questionnaire/thanks.html:5
+msgid "Thanks for filling out our questionnaire!"
+msgstr "Hartelijk dank voor het invullen van onze enquête!"
+
+#: templates/questionnaire/thanks.html:7
+msgid ""
+"\n"
+"Please log out with the link below. Maybe you find new information you would "
+"like to add. You have the opportunity to do so by logging in again.\n"
+msgstr ""
+"\n"
+"Meld U af met de onderstaande link. Misschien dat U verdere informatie vind. "
+"Dan heeft U later de mogelijkheid om in te loggen en antwoorden aan te "
+"passen.\n"
+
+#: templates/registration/logged_out.html:6
+msgid "You have successfully logged out."
+msgstr "U bent nu afgemeld."
+
+#: venv/django/contrib/admin/templates/admin/404.html:4
+#: venv/django/contrib/admin/templates/admin/404.html:8
+msgid "Page not found"
+msgstr "Pagina niet gevonden"
+
+#: venv/django/contrib/admin/templates/admin/404.html:10
+msgid "We're sorry, but the requested page could not be found."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/500.html:4
+#: venv/django/contrib/admin/templates/admin/app_index.html:8
+#: venv/django/contrib/admin/templates/admin/base.html:55
+#: venv/django/contrib/admin/templates/admin/change_form.html:18
+#: venv/django/contrib/admin/templates/admin/change_list.html:42
+#: venv/django/contrib/admin/templates/admin/delete_confirmation.html:6
+#: venv/django/contrib/admin/templates/admin/delete_selected_confirmation.html:6
+#: venv/django/contrib/admin/templates/admin/invalid_setup.html:4
+#: venv/django/contrib/admin/templates/admin/object_history.html:6
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:11
+#: venv/django/contrib/admin/templates/registration/logged_out.html:4
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:4
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:5
+#: venv/django/contrib/admin/templates/registration/password_reset_complete.html:4
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:4
+#: venv/django/contrib/admin/templates/registration/password_reset_done.html:4
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:4
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+msgid "Home"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/500.html:4
+msgid "Server error"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/500.html:6
+msgid "Server error (500)"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/500.html:9
+msgid "Server Error <em>(500)</em>"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/500.html:10
+msgid ""
+"There's been an error. It's been reported to the site administrators via e-"
+"mail and should be fixed shortly. Thanks for your patience."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/actions.html:4
+msgid "Run the selected action"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/actions.html:4
+msgid "Go"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/actions.html:11
+msgid "Click here to select the objects across all pages"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/actions.html:11
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/actions.html:13
+msgid "Clear selection"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/app_index.html:10
+#: venv/django/contrib/admin/templates/admin/index.html:19
+#, python-format
+msgid "%(name)s"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/base.html:28
+msgid "Welcome,"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/base.html:33
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:3
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:4
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+msgid "Documentation"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/base.html:41
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:15
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:48
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:3
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:4
+msgid "Change password"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/base_site.html:4
+msgid "Django site admin"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/base_site.html:7
+msgid "Django administration"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/change_form.html:21
+#: venv/django/contrib/admin/templates/admin/index.html:29
+msgid "Add"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/change_form.html:28
+#: venv/django/contrib/admin/templates/admin/object_history.html:10
+msgid "History"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/change_form.html:29
+#: venv/django/contrib/admin/templates/admin/edit_inline/stacked.html:9
+#: venv/django/contrib/admin/templates/admin/edit_inline/tabular.html:28
+msgid "View on site"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/change_form.html:39
+#: venv/django/contrib/admin/templates/admin/change_list.html:71
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:24
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:15
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/django/contrib/admin/templates/admin/change_list.html:63
+#, python-format
+msgid "Add %(name)s"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/change_list.html:82
+msgid "Filter"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_confirmation.html:10
+#: venv/django/contrib/admin/templates/admin/submit_line.html:4
+#: venv/lib/python2.7/site-packages/django/forms/formsets.py:302
+msgid "Delete"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_confirmation.html:16
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_confirmation.html:23
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_confirmation.html:28
+#: venv/django/contrib/admin/templates/admin/delete_selected_confirmation.html:33
+msgid "Yes, I'm sure"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_selected_confirmation.html:9
+msgid "Delete multiple objects"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_selected_confirmation.html:15
+#, python-format
+msgid ""
+"Deleting the %(object_name)s would result in deleting related objects, but "
+"your account doesn't have permission to delete the following types of "
+"objects:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/delete_selected_confirmation.html:22
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(object_name)s objects? All of "
+"the following objects and their related items will be deleted:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/filter.html:2
+#, python-format
+msgid " By %(filter_title)s "
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:18
+#, python-format
+msgid "Models available in the %(name)s application."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:35
+msgid "Change"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:45
+msgid "You don't have permission to edit anything."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:53
+msgid "Recent Actions"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:54
+msgid "My Actions"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:58
+msgid "None available"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/index.html:72
+msgid "Unknown content"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/invalid_setup.html:7
+msgid ""
+"Something's wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/login.html:19
+#, fuzzy
+msgid "Username:"
+msgstr "Achternaam"
+
+#: venv/django/contrib/admin/templates/admin/login.html:22
+msgid "Password:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/login.html:26
+#: venv/django/contrib/admin/templates/registration/password_reset_complete.html:14
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:403
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:20
+#, fuzzy
+msgid "Log in"
+msgstr "Afmelden"
+
+#: venv/django/contrib/admin/templates/admin/object_history.html:22
+msgid "Date/time"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/object_history.html:23
+msgid "User"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/object_history.html:24
+msgid "Action"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/object_history.html:38
+msgid ""
+"This object doesn't have a change history. It probably wasn't added via this "
+"admin site."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/pagination.html:10
+msgid "Show all"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/pagination.html:11
+#: venv/django/contrib/admin/templates/admin/submit_line.html:3
+msgid "Save"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/search_form.html:8
+msgid "Search"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/search_form.html:10
+#, python-format
+msgid "1 result"
+msgid_plural "%(counter)s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/django/contrib/admin/templates/admin/search_form.html:10
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/submit_line.html:5
+msgid "Save as new"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/submit_line.html:6
+msgid "Save and add another"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/submit_line.html:7
+msgid "Save and continue editing"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/auth/user/add_form.html:5
+msgid ""
+"First, enter a username and password. Then, you'll be able to edit more user "
+"options."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:28
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:35
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:17
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:61
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:186
+msgid "Password"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:41
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:37
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:187
+msgid "Password (again)"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/auth/user/change_password.html:42
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:19
+msgid "Enter the same password as above, for verification."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/edit_inline/stacked.html:64
+#: venv/django/contrib/admin/templates/admin/edit_inline/tabular.html:110
+#, python-format
+msgid "Add another %(verbose_name)s"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/edit_inline/stacked.html:67
+#: venv/django/contrib/admin/templates/admin/edit_inline/tabular.html:113
+#: venv/django/contrib/comments/templates/comments/delete.html:12
+msgid "Remove"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/admin/edit_inline/tabular.html:15
+msgid "Delete?"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/logged_out.html:8
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/logged_out.html:10
+msgid "Log in again"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:4
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:5
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:7
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:19
+msgid "Password change"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:6
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:10
+msgid "Password change successful"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_done.html:12
+msgid "Your password was changed."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:21
+msgid ""
+"Please enter your old password, for security's sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:27
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:170
+msgid "Old password"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:32
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:144
+msgid "New password"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_change_form.html:43
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:21
+msgid "Change my password"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_complete.html:4
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:6
+#: venv/django/contrib/admin/templates/registration/password_reset_done.html:4
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:4
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:6
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:10
+msgid "Password reset"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_complete.html:6
+#: venv/django/contrib/admin/templates/registration/password_reset_complete.html:10
+msgid "Password reset complete"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_complete.html:12
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:4
+msgid "Password reset confirmation"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:12
+msgid "Enter new password"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:14
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:18
+msgid "New password:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:20
+msgid "Confirm password:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:26
+msgid "Password reset unsuccessful"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_confirm.html:28
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_done.html:6
+#: venv/django/contrib/admin/templates/registration/password_reset_done.html:10
+msgid "Password reset successful"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_done.html:12
+msgid ""
+"We've e-mailed you instructions for setting your password to the e-mail "
+"address you submitted. You should be receiving it shortly."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_email.html:2
+msgid "You're receiving this e-mail because you requested a password reset"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_email.html:3
+#, python-format
+msgid "for your user account at %(site_name)s"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_email.html:5
+msgid "Please go to the following page and choose a new password:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_email.html:9
+msgid "Your username, in case you've forgotten:"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_email.html:11
+#, fuzzy
+msgid "Thanks for using our site!"
+msgstr "Hartelijk dank voor het invullen van onze enquête!"
+
+#: venv/django/contrib/admin/templates/registration/password_reset_email.html:13
+#, python-format
+msgid "The %(site_name)s team"
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:12
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll e-mail "
+"instructions for setting a new one."
+msgstr ""
+
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:16
+#, fuzzy
+msgid "E-mail address:"
+msgstr "E-mail adres"
+
+#: venv/django/contrib/admin/templates/registration/password_reset_form.html:16
+msgid "Reset my password"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:3
+msgid "Bookmarklets"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:4
+msgid "Documentation bookmarklets"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:8
+msgid ""
+"\n"
+"<p class=\"help\">To install bookmarklets, drag the link to your bookmarks\n"
+"toolbar, or right-click the link and add it to your bookmarks. Now you can\n"
+"select the bookmarklet from any page in the site.  Note that some of these\n"
+"bookmarklets require you to be viewing the site from a computer designated\n"
+"as \"internal\" (talk to your system administrator if you aren't sure if\n"
+"your computer is \"internal\").</p>\n"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:18
+msgid "Documentation for this page"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:19
+msgid ""
+"Jumps you from any page to the documentation for the view that generates "
+"that page."
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:21
+msgid "Show object ID"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:22
+msgid ""
+"Shows the content-type and unique ID for pages that represent a single "
+"object."
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:24
+msgid "Edit this object (current window)"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:25
+msgid "Jumps to the admin page for pages that represent a single object."
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:27
+msgid "Edit this object (new window)"
+msgstr ""
+
+#: venv/django/contrib/admindocs/templates/admin_doc/bookmarklets.html:28
+msgid "As above, but opens the admin page in a new window."
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/approve.html:4
+msgid "Approve a comment"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/approve.html:7
+msgid "Really make this comment public?"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/approve.html:12
+msgid "Approve"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/approved.html:4
+msgid "Thanks for approving"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/approved.html:7
+#: venv/django/contrib/comments/templates/comments/deleted.html:7
+#: venv/django/contrib/comments/templates/comments/flagged.html:7
+msgid ""
+"Thanks for taking the time to improve the quality of discussion on our site"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/delete.html:4
+msgid "Remove a comment"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/delete.html:7
+msgid "Really remove this comment?"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/deleted.html:4
+msgid "Thanks for removing"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/flag.html:4
+msgid "Flag this comment"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/flag.html:7
+msgid "Really flag this comment?"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/flag.html:12
+msgid "Flag"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/flagged.html:4
+msgid "Thanks for flagging"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/form.html:17
+#: venv/django/contrib/comments/templates/comments/preview.html:32
+msgid "Post"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/form.html:18
+#: venv/django/contrib/comments/templates/comments/preview.html:33
+msgid "Preview"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/posted.html:4
+msgid "Thanks for commenting"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/posted.html:7
+msgid "Thank you for your comment"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/preview.html:4
+#: venv/django/contrib/comments/templates/comments/preview.html:13
+msgid "Preview your comment"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/preview.html:11
+msgid "Please correct the error below"
+msgid_plural "Please correct the errors below"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/django/contrib/comments/templates/comments/preview.html:16
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:559
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:569
+#: venv/lib/python2.7/site-packages/django/db/models/base.py:845
+#: venv/lib/python2.7/site-packages/django/forms/models.py:568
+msgid "and"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/preview.html:16
+msgid "Post your comment"
+msgstr ""
+
+#: venv/django/contrib/comments/templates/comments/preview.html:16
+msgid "or make changes"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:44
+msgid "Arabic"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:45
+msgid "Bulgarian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:46
+msgid "Bengali"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:47
+msgid "Bosnian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:48
+msgid "Catalan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:49
+msgid "Czech"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:50
+msgid "Welsh"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:51
+msgid "Danish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:52
+msgid "German"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:53
+msgid "Greek"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:55
+#, fuzzy
+msgid "British English"
+msgstr "Engels"
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:56
+msgid "Spanish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:57
+msgid "Argentinean Spanish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:58
+msgid "Estonian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:59
+msgid "Basque"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:60
+msgid "Persian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:61
+msgid "Finnish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:62
+msgid "French"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:63
+msgid "Frisian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:64
+msgid "Irish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:65
+msgid "Galician"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:66
+msgid "Hebrew"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:67
+msgid "Hindi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:68
+msgid "Croatian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:69
+msgid "Hungarian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:70
+msgid "Indonesian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:71
+msgid "Icelandic"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:72
+msgid "Italian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:73
+msgid "Japanese"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:74
+msgid "Georgian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:75
+msgid "Khmer"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:76
+msgid "Kannada"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:77
+msgid "Korean"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:78
+msgid "Lithuanian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:79
+msgid "Latvian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:80
+msgid "Macedonian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:81
+msgid "Mongolian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:83
+msgid "Norwegian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:84
+msgid "Norwegian Bokmal"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:85
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:86
+#, fuzzy
+msgid "Polish"
+msgstr "Engels"
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:87
+msgid "Portuguese"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:88
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:89
+msgid "Romanian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:90
+msgid "Russian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:91
+msgid "Slovak"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:92
+msgid "Slovenian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:93
+msgid "Albanian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:94
+msgid "Serbian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:95
+msgid "Serbian Latin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:96
+msgid "Swedish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:97
+msgid "Tamil"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:98
+msgid "Telugu"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:99
+msgid "Thai"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:100
+msgid "Turkish"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:101
+msgid "Ukrainian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:102
+msgid "Vietnamese"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:103
+msgid "Simplified Chinese"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/conf/global_settings.py:104
+msgid "Traditional Chinese"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/actions.py:48
+#, python-format
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/actions.py:55
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1125
+msgid "Are you sure?"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/actions.py:73
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:44
+#, python-format
+msgid ""
+"<h3>By %s:</h3>\n"
+"<ul>\n"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:75
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:92
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:147
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:173
+msgid "All"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:113
+msgid "Any date"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:114
+msgid "Today"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:117
+msgid "Past 7 days"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:119
+msgid "This month"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:121
+msgid "This year"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/filterspecs.py:154
+#: venv/lib/python2.7/site-packages/django/forms/widgets.py:469
+msgid "Unknown"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/helpers.py:20
+msgid "Action:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:19
+msgid "action time"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:22
+msgid "object id"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:23
+#, fuzzy
+msgid "object repr"
+msgstr "Projectleden"
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:24
+msgid "action flag"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:25
+msgid "change message"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:28
+#, fuzzy
+msgid "log entry"
+msgstr "Een analoge meter"
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/models.py:29
+#, fuzzy
+msgid "log entries"
+msgstr "Een analoge meter"
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:138
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:153
+msgid "None"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:559
+#, python-format
+msgid "Changed %s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:564
+#, python-format
+msgid "Added %(name)s \"%(object)s\"."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:568
+#, python-format
+msgid "Changed %(list)s for %(name)s \"%(object)s\"."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:573
+#, python-format
+msgid "Deleted %(name)s \"%(object)s\"."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:577
+msgid "No fields changed."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:643
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was added successfully."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:647
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:680
+msgid "You may edit it again below."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:657
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:690
+#, python-format
+msgid "You may add another %s below."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:678
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was changed successfully."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:686
+#, python-format
+msgid ""
+"The %(name)s \"%(obj)s\" was added successfully. You may edit it again below."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:740
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:997
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:759
+msgid "No action selected."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:840
+#, python-format
+msgid "Add %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:866
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1105
+#, python-format
+msgid "%(name)s object with primary key %(key)r does not exist."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:931
+#, python-format
+msgid "Change %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:977
+msgid "Database error"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1039
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1066
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1071
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1118
+#, python-format
+msgid "The %(name)s \"%(obj)s\" was deleted successfully."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/options.py:1155
+#, python-format
+msgid "Change history: %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:18
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:14
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:81
+msgid ""
+"Please enter a correct username and password. Note that both fields are case-"
+"sensitive."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:307
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:40
+msgid "Please log in again, because your session has expired."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:314
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:47
+msgid ""
+"Looks like your browser isn't configured to accept cookies. Please enable "
+"cookies, reload this page, and try again."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:330
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:336
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:66
+msgid "Usernames cannot contain the '@' character."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:333
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/decorators.py:62
+#, python-format
+msgid "Your e-mail address is not your username. Try '%s' instead."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:389
+msgid "Site administration"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/sites.py:448
+#, python-format
+msgid "%s administration"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/widgets.py:75
+msgid "Date:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/widgets.py:75
+msgid "Time:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/widgets.py:99
+msgid "Currently:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/widgets.py:99
+msgid "Change:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/widgets.py:129
+msgid "Lookup"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/widgets.py:244
+msgid "Add Another"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/templatetags/admin_list.py:257
+msgid "All dates"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/main.py:65
+#, python-format
+msgid "Select %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/main.py:65
+#, python-format
+msgid "Select %s to change"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/template.py:38
+#: venv/lib/python2.7/site-packages/django/contrib/sites/models.py:38
+#, fuzzy
+msgid "site"
+msgstr "Website"
+
+#: venv/lib/python2.7/site-packages/django/contrib/admin/views/template.py:40
+msgid "template"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:61
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:63
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:65
+msgid "tag:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:94
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:96
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:98
+msgid "filter:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:158
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:160
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:162
+msgid "view:"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:190
+#, python-format
+msgid "App %r not found"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:197
+#, python-format
+msgid "Model %(model_name)r not found in app %(app_label)r"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:209
+#, python-format
+msgid "the related `%(app_label)s.%(data_type)s` object"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:209
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:228
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:233
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:247
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:261
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:266
+#, fuzzy
+msgid "model:"
+msgstr "Model:"
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:224
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:256
+#, python-format
+msgid "related `%(app_label)s.%(object_name)s` objects"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:228
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:261
+#, python-format
+msgid "all %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:233
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:266
+#, python-format
+msgid "number of %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:271
+#, python-format
+msgid "Fields on %s objects"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/admindocs/views.py:361
+#, python-format
+msgid "%s does not appear to be a urlpattern object"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/admin.py:29
+msgid "Personal info"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/admin.py:30
+msgid "Permissions"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/admin.py:31
+msgid "Important dates"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/admin.py:32
+msgid "Groups"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/admin.py:114
+#, fuzzy
+msgid "Password changed successfully."
+msgstr "U bent nu afgemeld."
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/admin.py:124
+#, python-format
+msgid "Change password: %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:14
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:48
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:60
+#, fuzzy
+msgid "Username"
+msgstr "Achternaam"
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:15
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:49
+msgid "Required. 30 characters or fewer. Letters, digits and @/./+/-/_ only."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:16
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:50
+msgid "This value may contain only letters, numbers and @/./+/-/_ characters."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:18
+msgid "Password confirmation"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:31
+msgid "A user with that username already exists."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:37
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:156
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:198
+msgid "The two password fields didn't match."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:83
+msgid "This account is inactive."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:88
+msgid ""
+"Your Web browser doesn't appear to have cookies enabled. Cookies are "
+"required for logging in."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:101
+msgid "E-mail"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:110
+msgid ""
+"That e-mail address doesn't have an associated user account. Are you sure "
+"you've registered?"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:136
+#, python-format
+msgid "Password reset on %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:145
+msgid "New password confirmation"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/forms.py:178
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:66
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:94
+#, fuzzy
+msgid "name"
+msgstr "Achternaam"
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:68
+msgid "codename"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:72
+msgid "permission"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:73
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:95
+msgid "permissions"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:98
+msgid "group"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:99
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:206
+msgid "groups"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:196
+#, fuzzy
+msgid "username"
+msgstr "Achternaam"
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:196
+msgid ""
+"Required. 30 characters or fewer. Letters, numbers and @/./+/-/_ characters"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:197
+#, fuzzy
+msgid "first name"
+msgstr "Voornaam"
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:198
+msgid "last name"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:199
+#, fuzzy
+msgid "e-mail address"
+msgstr "E-mail adres"
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:200
+msgid "password"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:200
+msgid ""
+"Use '[algo]$[salt]$[hexdigest]' or use the <a href=\"password/\">change "
+"password form</a>."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:201
+msgid "staff status"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:201
+msgid "Designates whether the user can log into this admin site."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:202
+msgid "active"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:202
+msgid ""
+"Designates whether this user should be treated as active. Unselect this "
+"instead of deleting accounts."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:203
+msgid "superuser status"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:203
+msgid ""
+"Designates that this user has all permissions without explicitly assigning "
+"them."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:204
+msgid "last login"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:205
+msgid "date joined"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:207
+msgid ""
+"In addition to the permissions manually assigned, this user will also get "
+"all permissions granted to each group he/she is in."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:208
+msgid "user permissions"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:212
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:50
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:168
+msgid "user"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:213
+msgid "users"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/models.py:394
+msgid "message"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/views.py:79
+#, fuzzy
+msgid "Logged out"
+msgstr "Afmelden"
+
+#: venv/lib/python2.7/site-packages/django/contrib/auth/management/commands/createsuperuser.py:23
+#: venv/lib/python2.7/site-packages/django/core/validators.py:120
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:428
+msgid "Enter a valid e-mail address."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:12
+#, fuzzy
+msgid "Content"
+msgstr "Contact"
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:15
+msgid "Metadata"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:40
+msgid "flagged"
+msgid_plural "flagged"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:41
+msgid "Flag selected comments"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:45
+msgid "approved"
+msgid_plural "approved"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:46
+msgid "Approve selected comments"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:50
+msgid "removed"
+msgid_plural "removed"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:51
+msgid "Remove selected comments"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/admin.py:63
+#, python-format
+msgid "1 comment was successfully %(action)s."
+msgid_plural "%(count)s comments were successfully %(action)s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/feeds.py:13
+#, python-format
+msgid "%(site_name)s comments"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/feeds.py:23
+#, python-format
+msgid "Latest comments on %(site_name)s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/forms.py:93
+msgid "Name"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/forms.py:94
+#, fuzzy
+msgid "Email address"
+msgstr "E-mail adres"
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/forms.py:95
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/admin.py:8
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:7
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1101
+msgid "URL"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/forms.py:96
+msgid "Comment"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/forms.py:175
+#, python-format
+msgid "Watch your mouth! The word %s is not allowed here."
+msgid_plural "Watch your mouth! The words %s are not allowed here."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/forms.py:182
+msgid ""
+"If you enter anything in this field your comment will be treated as spam"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:22
+#: venv/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:81
+msgid "content type"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:24
+msgid "object ID"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:52
+#, fuzzy
+msgid "user's name"
+msgstr "Achternaam"
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:53
+#, fuzzy
+msgid "user's email address"
+msgstr "E-mail adres"
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:54
+msgid "user's URL"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:56
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:76
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:169
+msgid "comment"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:59
+msgid "date/time submitted"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:60
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:896
+#, fuzzy
+msgid "IP address"
+msgstr "E-mail adres"
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:61
+msgid "is public"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:62
+msgid ""
+"Uncheck this box to make the comment effectively disappear from the site."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:64
+msgid "is removed"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:65
+msgid ""
+"Check this box if the comment is inappropriate. A \"This comment has been "
+"removed\" message will be displayed instead."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:77
+msgid "comments"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:119
+msgid ""
+"This comment was posted by an authenticated user and thus the name is read-"
+"only."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:128
+msgid ""
+"This comment was posted by an authenticated user and thus the email is read-"
+"only."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:153
+#, python-format
+msgid ""
+"Posted by %(user)s at %(date)s\n"
+"\n"
+"%(comment)s\n"
+"\n"
+"http://%(domain)s%(url)s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:170
+msgid "flag"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:171
+msgid "date"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:181
+msgid "comment flag"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/comments/models.py:182
+msgid "comment flags"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:77
+msgid "python model class name"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/contenttypes/models.py:82
+msgid "content types"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/admin.py:9
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/admin.py:11
+msgid ""
+"This value must contain only letters, numbers, underscores, dashes or "
+"slashes."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/admin.py:22
+msgid "Advanced options"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:8
+msgid "title"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:9
+msgid "content"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:10
+msgid "enable comments"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:11
+msgid "template name"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:12
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:13
+msgid "registration required"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:13
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:18
+msgid "flat page"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/flatpages/models.py:19
+msgid "flat pages"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/formtools/wizard.py:140
+msgid ""
+"We apologize, but your form has expired. Please continue filling out the "
+"form from this page."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:50
+msgid "The base GIS field -- maps to the OpenGIS Specification Geometry type."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:270
+msgid "Point"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:274
+msgid "Line string"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:278
+msgid "Polygon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:282
+msgid "Multi-point"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:286
+msgid "Multi-line string"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:290
+msgid "Multi polygon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/db/models/fields.py:294
+msgid "Geometry collection"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/forms/fields.py:17
+msgid "No geometry value provided."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/forms/fields.py:18
+msgid "Invalid geometry value."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/forms/fields.py:19
+msgid "Invalid geometry type."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/gis/forms/fields.py:20
+msgid ""
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:19
+#, fuzzy
+msgid "th"
+msgstr "Beide"
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:19
+msgid "st"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:19
+msgid "nd"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:19
+msgid "rd"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:51
+#, python-format
+msgid "%(value).1f million"
+msgid_plural "%(value).1f million"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:54
+#, python-format
+msgid "%(value).1f billion"
+msgid_plural "%(value).1f billion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:57
+#, python-format
+msgid "%(value).1f trillion"
+msgid_plural "%(value).1f trillion"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "one"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "two"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "three"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "four"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "five"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "six"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "seven"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "eight"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:73
+msgid "nine"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:93
+msgid "today"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:95
+msgid "tomorrow"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/humanize/templatetags/humanize.py:97
+msgid "yesterday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ar/forms.py:28
+msgid "Enter a postal code in the format NNNN or ANNNNAAA."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ar/forms.py:50
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:92
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:131
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pe/forms.py:24
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pe/forms.py:52
+msgid "This field requires only numbers."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ar/forms.py:51
+msgid "This field requires 7 or 8 digits."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ar/forms.py:80
+msgid "Enter a valid CUIT in XX-XXXXXXXX-X or XXXXXXXXXXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ar/forms.py:81
+msgid "Invalid CUIT."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:5
+msgid "Burgenland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:6
+msgid "Carinthia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:7
+msgid "Lower Austria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:8
+msgid "Upper Austria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:9
+msgid "Salzburg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:10
+msgid "Styria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:11
+msgid "Tyrol"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:12
+msgid "Vorarlberg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/at_states.py:13
+msgid "Vienna"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/forms.py:20
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/forms.py:17
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/no/forms.py:13
+msgid "Enter a zip code in the format XXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/at/forms.py:48
+msgid "Enter a valid Austrian Social Security Number in XXXX XXXXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/au/forms.py:17
+msgid "Enter a 4 digit post code."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:17
+msgid "Enter a zip code in the format XXXXX-XXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:26
+msgid "Phone numbers must be in XX-XXXX-XXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:54
+msgid ""
+"Select a valid brazilian state. That state is not one of the available "
+"states."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:90
+msgid "Invalid CPF number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:91
+msgid "This field requires at most 11 digits or 14 characters."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:130
+msgid "Invalid CNPJ number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/br/forms.py:132
+msgid "This field requires at least 14 digits"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ca/forms.py:25
+msgid "Enter a postal code in the format XXX XXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ca/forms.py:96
+msgid "Enter a valid Canadian Social Insurance number in XXX-XXX-XXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:5
+msgid "Aargau"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:6
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:7
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:8
+msgid "Basel-Stadt"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:9
+msgid "Basel-Land"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:10
+msgid "Berne"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:11
+msgid "Fribourg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:12
+msgid "Geneva"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:13
+msgid "Glarus"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:14
+msgid "Graubuenden"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:15
+msgid "Jura"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:16
+msgid "Lucerne"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:17
+msgid "Neuchatel"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:18
+msgid "Nidwalden"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:19
+msgid "Obwalden"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:20
+msgid "Schaffhausen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:21
+msgid "Schwyz"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:22
+msgid "Solothurn"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:23
+msgid "St. Gallen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:24
+msgid "Thurgau"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:25
+msgid "Ticino"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:26
+msgid "Uri"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:27
+msgid "Valais"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:28
+msgid "Vaud"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:29
+msgid "Zug"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/ch_states.py:30
+msgid "Zurich"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ch/forms.py:65
+msgid ""
+"Enter a valid Swiss identity or passport card number in X1234567<0 or "
+"1234567890 format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cl/forms.py:30
+msgid "Enter a valid Chilean RUT."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cl/forms.py:31
+msgid "Enter a valid Chilean RUT. The format is XX.XXX.XXX-X."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cl/forms.py:32
+msgid "The Chilean RUT is not valid."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:8
+msgid "Prague"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:9
+msgid "Central Bohemian Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:10
+msgid "South Bohemian Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:11
+msgid "Pilsen Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:12
+msgid "Carlsbad Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:13
+msgid "Usti Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:14
+msgid "Liberec Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:15
+msgid "Hradec Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:16
+msgid "Pardubice Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:17
+msgid "Vysocina Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:18
+msgid "South Moravian Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:19
+msgid "Olomouc Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:20
+msgid "Zlin Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/cz_regions.py:21
+msgid "Moravian-Silesian Region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/forms.py:28
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/forms.py:30
+msgid "Enter a postal code in the format XXXXX or XXX XX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/forms.py:48
+msgid "Enter a birth number in the format XXXXXX/XXXX or XXXXXXXXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/forms.py:49
+msgid "Invalid optional parameter Gender, valid values are 'f' and 'm'"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/forms.py:50
+msgid "Enter a valid birth number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/cz/forms.py:107
+msgid "Enter a valid IC number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:5
+msgid "Baden-Wuerttemberg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:6
+msgid "Bavaria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:7
+msgid "Berlin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:8
+msgid "Brandenburg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:9
+msgid "Bremen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:10
+msgid "Hamburg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:11
+msgid "Hessen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:12
+msgid "Mecklenburg-Western Pomerania"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:13
+msgid "Lower Saxony"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:14
+msgid "North Rhine-Westphalia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:15
+msgid "Rhineland-Palatinate"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:16
+msgid "Saarland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:17
+msgid "Saxony"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:18
+msgid "Saxony-Anhalt"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:19
+msgid "Schleswig-Holstein"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/de_states.py:20
+msgid "Thuringia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/forms.py:15
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/fi/forms.py:13
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/fr/forms.py:16
+msgid "Enter a zip code in the format XXXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/de/forms.py:42
+msgid ""
+"Enter a valid German identity card number in XXXXXXXXXXX-XXXXXXX-XXXXXXX-X "
+"format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:5
+msgid "Arava"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:6
+msgid "Albacete"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:7
+msgid "Alacant"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:8
+msgid "Almeria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:9
+msgid "Avila"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:10
+msgid "Badajoz"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:11
+msgid "Illes Balears"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:12
+msgid "Barcelona"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:13
+msgid "Burgos"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:14
+msgid "Caceres"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:15
+msgid "Cadiz"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:16
+msgid "Castello"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:17
+msgid "Ciudad Real"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:18
+msgid "Cordoba"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:19
+msgid "A Coruna"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:20
+msgid "Cuenca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:21
+msgid "Girona"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:22
+msgid "Granada"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:23
+msgid "Guadalajara"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:24
+msgid "Guipuzkoa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:25
+msgid "Huelva"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:26
+msgid "Huesca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:27
+msgid "Jaen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:28
+msgid "Leon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:29
+msgid "Lleida"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:30
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:17
+msgid "La Rioja"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:31
+msgid "Lugo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:32
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:18
+msgid "Madrid"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:33
+msgid "Malaga"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:34
+msgid "Murcia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:35
+msgid "Navarre"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:36
+msgid "Ourense"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:37
+msgid "Asturias"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:38
+msgid "Palencia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:39
+msgid "Las Palmas"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:40
+msgid "Pontevedra"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:41
+msgid "Salamanca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:42
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:43
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:11
+msgid "Cantabria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:44
+msgid "Segovia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:45
+msgid "Seville"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:46
+msgid "Soria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:47
+msgid "Tarragona"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:48
+msgid "Teruel"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:49
+msgid "Toledo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:50
+msgid "Valencia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:51
+msgid "Valladolid"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:52
+msgid "Bizkaia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:53
+msgid "Zamora"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:54
+msgid "Zaragoza"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:55
+msgid "Ceuta"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_provinces.py:56
+msgid "Melilla"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:5
+msgid "Andalusia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:6
+msgid "Aragon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:7
+msgid "Principality of Asturias"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:8
+msgid "Balearic Islands"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:9
+msgid "Basque Country"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:10
+msgid "Canary Islands"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:12
+msgid "Castile-La Mancha"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:13
+msgid "Castile and Leon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:14
+msgid "Catalonia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:15
+msgid "Extremadura"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:16
+msgid "Galicia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:19
+msgid "Region of Murcia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:20
+msgid "Foral Community of Navarre"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/es_regions.py:21
+msgid "Valencian Community"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:20
+msgid "Enter a valid postal code in the range and format 01XXX - 52XXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:40
+msgid ""
+"Enter a valid phone number in one of the formats 6XXXXXXXX, 8XXXXXXXX or "
+"9XXXXXXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:67
+msgid "Please enter a valid NIF, NIE, or CIF."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:68
+msgid "Please enter a valid NIF or NIE."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:69
+msgid "Invalid checksum for NIF."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:70
+msgid "Invalid checksum for NIE."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:71
+msgid "Invalid checksum for CIF."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:143
+msgid ""
+"Please enter a valid bank account number in format XXXX-XXXX-XX-XXXXXXXXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/es/forms.py:144
+msgid "Invalid checksum for bank account number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/fi/forms.py:29
+msgid "Enter a valid Finnish social security number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/fr/forms.py:31
+msgid "Phone numbers must be in 0X XX XX XX XX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/forms.py:28
+msgid "Enter a valid post code"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/forms.py:68
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/forms.py:53
+msgid "Enter a valid phone number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/forms.py:107
+msgid "Enter a valid vehicle license plate number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/forms.py:170
+msgid "Enter a valid NIK/KTP number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:9
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:73
+msgid "Bali"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:10
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:45
+msgid "Banten"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:11
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:54
+msgid "Bengkulu"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:12
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:47
+msgid "Yogyakarta"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:13
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:51
+msgid "Jakarta"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:14
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:75
+msgid "Gorontalo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:15
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:57
+msgid "Jambi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:16
+msgid "Jawa Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:17
+msgid "Jawa Tengah"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:18
+msgid "Jawa Timur"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:19
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:88
+msgid "Kalimantan Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:20
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:66
+msgid "Kalimantan Selatan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:21
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:89
+msgid "Kalimantan Tengah"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:22
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:90
+msgid "Kalimantan Timur"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:23
+msgid "Kepulauan Bangka-Belitung"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:24
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:62
+msgid "Kepulauan Riau"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:25
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:55
+msgid "Lampung"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:26
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:70
+msgid "Maluku"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:27
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:71
+msgid "Maluku Utara"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:28
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:59
+msgid "Nanggroe Aceh Darussalam"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:29
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:30
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:31
+msgid "Papua"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:32
+msgid "Papua Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:33
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:60
+msgid "Riau"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:34
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:68
+msgid "Sulawesi Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:35
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:69
+msgid "Sulawesi Selatan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:36
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:76
+msgid "Sulawesi Tengah"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:37
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:79
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:38
+msgid "Sulawesi Utara"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:39
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:52
+msgid "Sumatera Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:40
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:56
+msgid "Sumatera Selatan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:41
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:58
+msgid "Sumatera Utara"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:46
+msgid "Magelang"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:48
+msgid "Surakarta - Solo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:49
+msgid "Madiun"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:50
+msgid "Kediri"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:53
+msgid "Tapanuli"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:61
+msgid "Kepulauan Bangka Belitung"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:63
+msgid "Corps Consulate"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:64
+msgid "Corps Diplomatic"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:65
+msgid "Bandung"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:67
+msgid "Sulawesi Utara Daratan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:72
+msgid "NTT - Timor"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:74
+msgid "Sulawesi Utara Kepulauan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:77
+msgid "NTB - Lombok"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:78
+msgid "Papua dan Papua Barat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:80
+msgid "Cirebon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:81
+msgid "NTB - Sumbawa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:82
+msgid "NTT - Flores"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:83
+msgid "NTT - Sumba"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:84
+msgid "Bogor"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:85
+msgid "Pekalongan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:86
+msgid "Semarang"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:87
+msgid "Pati"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:91
+msgid "Surabaya"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:92
+msgid "Madura"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:93
+msgid "Malang"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:94
+#, fuzzy
+msgid "Jember"
+msgstr "Huisnummer"
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:95
+msgid "Banyumas"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:96
+msgid "Federal Government"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:97
+msgid "Bojonegoro"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:98
+msgid "Purwakarta"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:99
+msgid "Sidoarjo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/id/id_choices.py:100
+msgid "Garut"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:8
+msgid "Antrim"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:9
+msgid "Armagh"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:10
+msgid "Carlow"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:11
+msgid "Cavan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:12
+msgid "Clare"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:13
+msgid "Cork"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:14
+msgid "Derry"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:15
+msgid "Donegal"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:16
+msgid "Down"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:17
+msgid "Dublin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:18
+msgid "Fermanagh"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:19
+msgid "Galway"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:20
+msgid "Kerry"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:21
+msgid "Kildare"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:22
+msgid "Kilkenny"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:23
+msgid "Laois"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:24
+msgid "Leitrim"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:25
+msgid "Limerick"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:26
+msgid "Longford"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:27
+msgid "Louth"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:28
+msgid "Mayo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:29
+msgid "Meath"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:30
+msgid "Monaghan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:31
+msgid "Offaly"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:32
+msgid "Roscommon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:33
+msgid "Sligo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:34
+msgid "Tipperary"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:35
+msgid "Tyrone"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:36
+msgid "Waterford"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:37
+msgid "Westmeath"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:38
+msgid "Wexford"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ie/ie_counties.py:39
+msgid "Wicklow"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/in_/forms.py:15
+msgid "Enter a zip code in the format XXXXXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/is_/forms.py:18
+msgid ""
+"Enter a valid Icelandic identification number. The format is XXXXXX-XXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/is_/forms.py:19
+msgid "The Icelandic identification number is not valid."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/it/forms.py:15
+msgid "Enter a valid zip code."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/it/forms.py:44
+msgid "Enter a valid Social Security number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/it/forms.py:69
+msgid "Enter a valid VAT number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/forms.py:16
+msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:4
+msgid "Hokkaido"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:5
+msgid "Aomori"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:6
+msgid "Iwate"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:7
+msgid "Miyagi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:8
+msgid "Akita"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:9
+msgid "Yamagata"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:10
+msgid "Fukushima"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:11
+msgid "Ibaraki"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:12
+msgid "Tochigi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:13
+msgid "Gunma"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:14
+msgid "Saitama"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:15
+msgid "Chiba"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:16
+msgid "Tokyo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:17
+msgid "Kanagawa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:18
+msgid "Yamanashi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:19
+msgid "Nagano"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:20
+msgid "Niigata"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:21
+msgid "Toyama"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:22
+msgid "Ishikawa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:23
+msgid "Fukui"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:24
+msgid "Gifu"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:25
+msgid "Shizuoka"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:26
+msgid "Aichi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:27
+msgid "Mie"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:28
+msgid "Shiga"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:29
+msgid "Kyoto"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:30
+msgid "Osaka"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:31
+msgid "Hyogo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:32
+msgid "Nara"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:33
+msgid "Wakayama"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:34
+msgid "Tottori"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:35
+msgid "Shimane"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:36
+msgid "Okayama"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:37
+msgid "Hiroshima"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:38
+msgid "Yamaguchi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:39
+msgid "Tokushima"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:40
+msgid "Kagawa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:41
+msgid "Ehime"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:42
+msgid "Kochi"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:43
+msgid "Fukuoka"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:44
+msgid "Saga"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:45
+msgid "Nagasaki"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:46
+msgid "Kumamoto"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:47
+msgid "Oita"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:48
+msgid "Miyazaki"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:49
+msgid "Kagoshima"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/jp/jp_prefectures.py:50
+msgid "Okinawa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/kw/forms.py:25
+msgid "Enter a valid Kuwaiti Civil ID number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:12
+msgid "Aguascalientes"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:13
+msgid "Baja California"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:14
+msgid "Baja California Sur"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:15
+msgid "Campeche"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:16
+msgid "Chihuahua"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:17
+msgid "Chiapas"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:18
+msgid "Coahuila"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:19
+msgid "Colima"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:20
+msgid "Distrito Federal"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:21
+msgid "Durango"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:22
+msgid "Guerrero"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:23
+msgid "Guanajuato"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:24
+msgid "Hidalgo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:25
+msgid "Jalisco"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:26
+msgid "Estado de México"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:27
+msgid "Michoacán"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:28
+msgid "Morelos"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:29
+msgid "Nayarit"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:30
+msgid "Nuevo León"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:31
+msgid "Oaxaca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:32
+msgid "Puebla"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:33
+msgid "Querétaro"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:34
+msgid "Quintana Roo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:35
+msgid "Sinaloa"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:36
+msgid "San Luis Potosí"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:37
+msgid "Sonora"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:38
+msgid "Tabasco"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:39
+msgid "Tamaulipas"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:40
+msgid "Tlaxcala"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:41
+msgid "Veracruz"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:42
+msgid "Yucatán"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/mx/mx_states.py:43
+msgid "Zacatecas"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/forms.py:22
+msgid "Enter a valid postal code"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/forms.py:79
+msgid "Enter a valid SoFi number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:4
+msgid "Drenthe"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:5
+msgid "Flevoland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:6
+msgid "Friesland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:7
+msgid "Gelderland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:8
+msgid "Groningen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:9
+msgid "Limburg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:10
+msgid "Noord-Brabant"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:11
+msgid "Noord-Holland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:12
+msgid "Overijssel"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:13
+msgid "Utrecht"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:14
+msgid "Zeeland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/nl/nl_provinces.py:15
+msgid "Zuid-Holland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/no/forms.py:34
+msgid "Enter a valid Norwegian social security number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pe/forms.py:25
+msgid "This field requires 8 digits."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pe/forms.py:53
+msgid "This field requires 11 digits."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:38
+msgid "National Identification Number consists of 11 digits."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:39
+msgid "Wrong checksum for the National Identification Number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:71
+msgid ""
+"Enter a tax number field (NIP) in the format XXX-XXX-XX-XX or XX-XX-XXX-XXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:72
+msgid "Wrong checksum for the Tax Number (NIP)."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:109
+msgid "National Business Register Number (REGON) consists of 9 or 14 digits."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:110
+msgid "Wrong checksum for the National Business Register Number (REGON)."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/forms.py:148
+msgid "Enter a postal code in the format XX-XXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:8
+msgid "Lower Silesia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:9
+msgid "Kuyavia-Pomerania"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:10
+msgid "Lublin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:11
+msgid "Lubusz"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:12
+msgid "Lodz"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:13
+msgid "Lesser Poland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:14
+msgid "Masovia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:15
+msgid "Opole"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:16
+msgid "Subcarpatia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:17
+msgid "Podlasie"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:18
+msgid "Pomerania"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:19
+msgid "Silesia"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:20
+msgid "Swietokrzyskie"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:21
+msgid "Warmia-Masuria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:22
+msgid "Greater Poland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pl/pl_voivodeships.py:23
+msgid "West Pomerania"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pt/forms.py:17
+msgid "Enter a zip code in the format XXXX-XXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/pt/forms.py:37
+msgid "Phone numbers must have 9 digits, or start by + or 00."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ro/forms.py:19
+msgid "Enter a valid CIF."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ro/forms.py:56
+msgid "Enter a valid CNP."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ro/forms.py:141
+msgid "Enter a valid IBAN in ROXX-XXXX-XXXX-XXXX-XXXX-XXXX format"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ro/forms.py:171
+msgid "Phone numbers must be in XXXX-XXXXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/ro/forms.py:194
+msgid "Enter a valid postal code in the format XXXXXX"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/forms.py:50
+msgid "Enter a valid Swedish organisation number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/forms.py:107
+msgid "Enter a valid Swedish personal identity number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/forms.py:108
+msgid "Co-ordination numbers are not allowed."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/forms.py:150
+msgid "Enter a Swedish postal code in the format XXXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:15
+msgid "Stockholm"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:16
+msgid "Västerbotten"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:17
+msgid "Norrbotten"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:18
+msgid "Uppsala"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:19
+msgid "Södermanland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:20
+msgid "Östergötland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:21
+msgid "Jönköping"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:22
+msgid "Kronoberg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:23
+msgid "Kalmar"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:24
+msgid "Gotland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:25
+msgid "Blekinge"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:26
+msgid "Skåne"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:27
+msgid "Halland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:28
+msgid "Västra Götaland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:29
+msgid "Värmland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:30
+msgid "Örebro"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:31
+msgid "Västmanland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:32
+msgid "Dalarna"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:33
+msgid "Gävleborg"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:34
+msgid "Västernorrland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/se/se_counties.py:35
+msgid "Jämtland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:8
+msgid "Banska Bystrica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:9
+msgid "Banska Stiavnica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:10
+msgid "Bardejov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:11
+msgid "Banovce nad Bebravou"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:12
+msgid "Brezno"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:13
+msgid "Bratislava I"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:14
+msgid "Bratislava II"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:15
+msgid "Bratislava III"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:16
+msgid "Bratislava IV"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:17
+msgid "Bratislava V"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:18
+msgid "Bytca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:19
+msgid "Cadca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:20
+msgid "Detva"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:21
+msgid "Dolny Kubin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:22
+msgid "Dunajska Streda"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:23
+msgid "Galanta"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:24
+msgid "Gelnica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:25
+msgid "Hlohovec"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:26
+msgid "Humenne"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:27
+msgid "Ilava"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:28
+msgid "Kezmarok"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:29
+msgid "Komarno"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:30
+msgid "Kosice I"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:31
+msgid "Kosice II"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:32
+msgid "Kosice III"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:33
+msgid "Kosice IV"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:34
+msgid "Kosice - okolie"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:35
+msgid "Krupina"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:36
+msgid "Kysucke Nove Mesto"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:37
+msgid "Levice"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:38
+msgid "Levoca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:39
+msgid "Liptovsky Mikulas"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:40
+msgid "Lucenec"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:41
+msgid "Malacky"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:42
+msgid "Martin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:43
+msgid "Medzilaborce"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:44
+msgid "Michalovce"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:45
+msgid "Myjava"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:46
+msgid "Namestovo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:47
+msgid "Nitra"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:48
+msgid "Nove Mesto nad Vahom"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:49
+msgid "Nove Zamky"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:50
+msgid "Partizanske"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:51
+msgid "Pezinok"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:52
+msgid "Piestany"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:53
+msgid "Poltar"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:54
+msgid "Poprad"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:55
+msgid "Povazska Bystrica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:56
+msgid "Presov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:57
+msgid "Prievidza"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:58
+msgid "Puchov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:59
+msgid "Revuca"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:60
+msgid "Rimavska Sobota"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:61
+msgid "Roznava"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:62
+#, fuzzy
+msgid "Ruzomberok"
+msgstr "Huisnummer"
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:63
+msgid "Sabinov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:64
+msgid "Senec"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:65
+msgid "Senica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:66
+msgid "Skalica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:67
+msgid "Snina"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:68
+msgid "Sobrance"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:69
+msgid "Spisska Nova Ves"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:70
+msgid "Stara Lubovna"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:71
+msgid "Stropkov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:72
+msgid "Svidnik"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:73
+msgid "Sala"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:74
+msgid "Topolcany"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:75
+msgid "Trebisov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:76
+msgid "Trencin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:77
+msgid "Trnava"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:78
+msgid "Turcianske Teplice"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:79
+msgid "Tvrdosin"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:80
+msgid "Velky Krtis"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:81
+msgid "Vranov nad Toplou"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:82
+msgid "Zlate Moravce"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:83
+msgid "Zvolen"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:84
+msgid "Zarnovica"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:85
+msgid "Ziar nad Hronom"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_districts.py:86
+msgid "Zilina"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:8
+msgid "Banska Bystrica region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:9
+msgid "Bratislava region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:10
+msgid "Kosice region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:11
+msgid "Nitra region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:12
+msgid "Presov region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:13
+msgid "Trencin region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:14
+msgid "Trnava region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/sk/sk_regions.py:15
+msgid "Zilina region"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/forms.py:21
+msgid "Enter a valid postcode."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:11
+msgid "Bedfordshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:12
+msgid "Buckinghamshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:14
+msgid "Cheshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:15
+msgid "Cornwall and Isles of Scilly"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:16
+msgid "Cumbria"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:17
+msgid "Derbyshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:18
+msgid "Devon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:19
+msgid "Dorset"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:20
+msgid "Durham"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:21
+msgid "East Sussex"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:22
+msgid "Essex"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:23
+msgid "Gloucestershire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:24
+msgid "Greater London"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:25
+msgid "Greater Manchester"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:26
+msgid "Hampshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:27
+msgid "Hertfordshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:28
+msgid "Kent"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:29
+msgid "Lancashire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:30
+msgid "Leicestershire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:31
+msgid "Lincolnshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:32
+msgid "Merseyside"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:33
+msgid "Norfolk"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:34
+msgid "North Yorkshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:35
+msgid "Northamptonshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:36
+#, fuzzy
+msgid "Northumberland"
+msgstr "Huisnummer"
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:37
+msgid "Nottinghamshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:38
+msgid "Oxfordshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:39
+msgid "Shropshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:40
+msgid "Somerset"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:41
+msgid "South Yorkshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:42
+msgid "Staffordshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:43
+#, fuzzy
+msgid "Suffolk"
+msgstr "Achtervoegsel"
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:44
+msgid "Surrey"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:45
+msgid "Tyne and Wear"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:46
+msgid "Warwickshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:47
+msgid "West Midlands"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:48
+msgid "West Sussex"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:49
+msgid "West Yorkshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:50
+msgid "Wiltshire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:51
+msgid "Worcestershire"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:55
+msgid "County Antrim"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:56
+msgid "County Armagh"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:57
+msgid "County Down"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:58
+msgid "County Fermanagh"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:59
+msgid "County Londonderry"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:60
+msgid "County Tyrone"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:64
+msgid "Clwyd"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:65
+msgid "Dyfed"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:66
+msgid "Gwent"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:67
+msgid "Gwynedd"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:68
+msgid "Mid Glamorgan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:69
+msgid "Powys"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:70
+msgid "South Glamorgan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:71
+msgid "West Glamorgan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:75
+msgid "Borders"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:76
+msgid "Central Scotland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:77
+msgid "Dumfries and Galloway"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:78
+msgid "Fife"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:79
+msgid "Grampian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:80
+msgid "Highland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:81
+msgid "Lothian"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:82
+msgid "Orkney Islands"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:83
+msgid "Shetland Islands"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:84
+msgid "Strathclyde"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:85
+msgid "Tayside"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:86
+msgid "Western Isles"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:90
+msgid "England"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:91
+msgid "Northern Ireland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:92
+msgid "Scotland"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uk/uk_regions.py:93
+msgid "Wales"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/us/forms.py:17
+msgid "Enter a zip code in the format XXXXX or XXXXX-XXXX."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/us/forms.py:26
+msgid "Phone numbers must be in XXX-XXX-XXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/us/forms.py:55
+msgid "Enter a valid U.S. Social Security number in XXX-XX-XXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/us/forms.py:88
+msgid "Enter a U.S. state or territory."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/us/models.py:8
+msgid "U.S. state (two uppercase letters)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/us/models.py:17
+msgid "Phone number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uy/forms.py:28
+msgid "Enter a valid CI number in X.XXX.XXX-X,XXXXXXX-X or XXXXXXXX format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/uy/forms.py:30
+msgid "Enter a valid CI number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/forms.py:21
+msgid "Enter a valid South African ID number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/forms.py:55
+msgid "Enter a valid South African postal code"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:4
+msgid "Eastern Cape"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:5
+msgid "Free State"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:6
+msgid "Gauteng"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:7
+msgid "KwaZulu-Natal"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:8
+msgid "Limpopo"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:9
+msgid "Mpumalanga"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:10
+msgid "Northern Cape"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:11
+msgid "North West"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/localflavor/za/za_provinces.py:12
+msgid "Western Cape"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/messages/tests/base.py:101
+msgid "lazy message"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/redirects/models.py:7
+msgid "redirect from"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/redirects/models.py:8
+msgid ""
+"This should be an absolute path, excluding the domain name. Example: '/"
+"events/search/'."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/redirects/models.py:9
+msgid "redirect to"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/redirects/models.py:10
+msgid ""
+"This can be either an absolute path (as above) or a full URL starting with "
+"'http://'."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/redirects/models.py:13
+msgid "redirect"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/redirects/models.py:14
+msgid "redirects"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sessions/models.py:45
+msgid "session key"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sessions/models.py:47
+msgid "session data"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sessions/models.py:48
+msgid "expire date"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sessions/models.py:53
+msgid "session"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sessions/models.py:54
+msgid "sessions"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sites/models.py:32
+msgid "domain name"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sites/models.py:33
+msgid "display name"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/contrib/sites/models.py:39
+#, fuzzy
+msgid "sites"
+msgstr "Website"
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:20
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:66
+msgid "Enter a valid value."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:87
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:529
+msgid "Enter a valid URL."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:89
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:530
+msgid "This URL appears to be a broken link."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:123
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:873
+msgid ""
+"Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:126
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:866
+msgid "Enter a valid IPv4 address."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:129
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:572
+msgid "Enter only digits separated by commas."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:135
+#, python-format
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:153
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:205
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:257
+#, python-format
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:158
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:206
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:258
+#, python-format
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:164
+#, python-format
+msgid ""
+"Ensure this value has at least %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/core/validators.py:170
+#, python-format
+msgid ""
+"Ensure this value has at most %(limit_value)d characters (it has "
+"%(show_value)d)."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/base.py:823
+#, python-format
+msgid "%(field_name)s must be unique for %(date_field)s %(lookup)s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/base.py:838
+#: venv/lib/python2.7/site-packages/django/db/models/base.py:846
+#, python-format
+msgid "%(model_name)s with this %(field_label)s already exists."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:63
+#, python-format
+msgid "Value %r is not a valid choice."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:64
+msgid "This field cannot be null."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:65
+msgid "This field cannot be blank."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:70
+#, python-format
+msgid "Field of type: %(field_type)s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:451
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:852
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:961
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:972
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:999
+msgid "Integer"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:455
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:850
+msgid "This value must be an integer."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:490
+msgid "This value must be either True or False."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:492
+msgid "Boolean (Either True or False)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:539
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:982
+#, python-format
+msgid "String (up to %(max_length)s)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:567
+msgid "Comma-separated integers"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:581
+msgid "Date (without time)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:585
+msgid "Enter a valid date in YYYY-MM-DD format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:586
+#, python-format
+msgid "Invalid date: %s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:667
+msgid "Enter a valid date/time in YYYY-MM-DD HH:MM[:ss[.uuuuuu]] format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:669
+msgid "Date (with time)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:735
+msgid "This value must be a decimal number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:737
+msgid "Decimal number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:792
+#, fuzzy
+msgid "E-mail address"
+msgstr "E-mail adres"
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:799
+#: venv/lib/python2.7/site-packages/django/db/models/fields/files.py:220
+#: venv/lib/python2.7/site-packages/django/db/models/fields/files.py:331
+msgid "File path"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:822
+msgid "This value must be a float."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:824
+msgid "Floating point number"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:883
+msgid "Big (8 byte) integer"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:912
+msgid "This value must be either None, True or False."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:914
+msgid "Boolean (Either True, False or None)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1005
+msgid "Text"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1021
+msgid "Time"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1025
+msgid "Enter a valid time in HH:MM[:ss[.uuuuuu]] format."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/__init__.py:1109
+msgid "XML text"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/related.py:799
+#, python-format
+msgid "Model %(model)s with pk %(pk)r does not exist."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/related.py:801
+msgid "Foreign Key (type determined by related field)"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/related.py:918
+msgid "One-to-one relationship"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/related.py:980
+msgid "Many-to-many relationship"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/related.py:1000
+msgid ""
+"Hold down \"Control\", or \"Command\" on a Mac, to select more than one."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/db/models/fields/related.py:1061
+#, python-format
+msgid "Please enter valid %(self)s IDs. The value %(value)r is invalid."
+msgid_plural ""
+"Please enter valid %(self)s IDs. The values %(value)r are invalid."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:65
+msgid "This field is required."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:204
+msgid "Enter a whole number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:235
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:256
+msgid "Enter a number."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:259
+#, python-format
+msgid "Ensure that there are no more than %s digits in total."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:260
+#, python-format
+msgid "Ensure that there are no more than %s decimal places."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:261
+#, python-format
+msgid "Ensure that there are no more than %s digits before the decimal point."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:323
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:838
+msgid "Enter a valid date."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:351
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:839
+msgid "Enter a valid time."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:377
+msgid "Enter a valid date/time."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:435
+msgid "No file was submitted. Check the encoding type on the form."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:436
+msgid "No file was submitted."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:437
+msgid "The submitted file is empty."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:438
+#, python-format
+msgid ""
+"Ensure this filename has at most %(max)d characters (it has %(length)d)."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:473
+msgid ""
+"Upload a valid image. The file you uploaded was either not an image or a "
+"corrupted image."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:596
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:671
+#, python-format
+msgid "Select a valid choice. %(value)s is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:672
+#: venv/lib/python2.7/site-packages/django/forms/fields.py:734
+#: venv/lib/python2.7/site-packages/django/forms/models.py:1002
+msgid "Enter a list of values."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/formsets.py:298
+#: venv/lib/python2.7/site-packages/django/forms/formsets.py:300
+msgid "Order"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:562
+#, python-format
+msgid "Please correct the duplicate data for %(field)s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:566
+#, python-format
+msgid "Please correct the duplicate data for %(field)s, which must be unique."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:572
+#, python-format
+msgid ""
+"Please correct the duplicate data for %(field_name)s which must be unique "
+"for the %(lookup)s in %(date_field)s."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:580
+msgid "Please correct the duplicate values below."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:855
+msgid "The inline foreign key did not match the parent instance primary key."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:921
+msgid "Select a valid choice. That choice is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:1003
+#, python-format
+msgid "Select a valid choice. %s is not one of the available choices."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/forms/models.py:1005
+#, python-format
+msgid "\"%s\" is not a valid value for a primary key."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/template/defaultfilters.py:776
+msgid "yes,no,maybe"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/template/defaultfilters.py:807
+#, python-format
+msgid "%(size)d byte"
+msgid_plural "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/template/defaultfilters.py:809
+#, python-format
+msgid "%.1f KB"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/template/defaultfilters.py:811
+#, python-format
+msgid "%.1f MB"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/template/defaultfilters.py:812
+#, python-format
+msgid "%.1f GB"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dateformat.py:42
+msgid "p.m."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dateformat.py:43
+msgid "a.m."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dateformat.py:48
+msgid "PM"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dateformat.py:49
+msgid "AM"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dateformat.py:98
+msgid "midnight"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dateformat.py:100
+msgid "noon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:6
+msgid "Monday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:6
+msgid "Tuesday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:6
+msgid "Wednesday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:6
+msgid "Thursday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:6
+msgid "Friday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:7
+msgid "Saturday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:7
+msgid "Sunday"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:10
+msgid "Mon"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:10
+msgid "Tue"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:10
+msgid "Wed"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:10
+msgid "Thu"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:10
+msgid "Fri"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:11
+msgid "Sat"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:11
+#, fuzzy
+msgid "Sun"
+msgstr "Achternaam"
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:18
+msgid "January"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:18
+msgid "February"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:18
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "March"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:18
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "April"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:18
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "May"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:18
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "June"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:19
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "July"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:19
+msgid "August"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:19
+msgid "September"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:19
+msgid "October"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:19
+#, fuzzy
+msgid "November"
+msgstr "Huisnummer"
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:20
+msgid "December"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:23
+msgid "jan"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:23
+msgid "feb"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:23
+msgid "mar"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:23
+msgid "apr"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:23
+msgid "may"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:23
+msgid "jun"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:24
+msgid "jul"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:24
+msgid "aug"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:24
+msgid "sep"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:24
+#, fuzzy
+msgid "oct"
+msgstr "Contact"
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:24
+msgid "nov"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:24
+msgid "dec"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "Jan."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:31
+msgid "Feb."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:32
+msgid "Aug."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:32
+msgid "Sept."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:32
+msgid "Oct."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:32
+msgid "Nov."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/dates.py:32
+msgid "Dec."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/text.py:130
+msgid "or"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:21
+msgid "year"
+msgid_plural "years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:22
+msgid "month"
+msgid_plural "months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:23
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:24
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:25
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:26
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:45
+msgid "minutes"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:50
+#, python-format
+msgid "%(number)d %(type)s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/timesince.py:56
+#, python-format
+msgid ", %(number)d %(type)s"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/translation/trans_real.py:519
+msgid "DATE_FORMAT"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/translation/trans_real.py:520
+msgid "DATETIME_FORMAT"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/translation/trans_real.py:521
+msgid "TIME_FORMAT"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/translation/trans_real.py:542
+msgid "YEAR_MONTH_FORMAT"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/utils/translation/trans_real.py:543
+msgid "MONTH_DAY_FORMAT"
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/views/generic/create_update.py:115
+#, python-format
+msgid "The %(verbose_name)s was created successfully."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/views/generic/create_update.py:158
+#, python-format
+msgid "The %(verbose_name)s was updated successfully."
+msgstr ""
+
+#: venv/lib/python2.7/site-packages/django/views/generic/create_update.py:201
+#, python-format
+msgid "The %(verbose_name)s was deleted."
+msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "A virtual PV plant is a web portal where electricity production data of a "
+#~ "large number of individual PV panels\n"
+#~ "is collected, aggregated and analysed.\n"
+#~ "PV panel owners will be able to monitor the performance of their panels "
+#~ "through the web.\n"
+#~ "If defects are detected owners are notified by email or other means.\n"
+#~ "In the future a Virtual PV Plant could act as a cooperation, selling "
+#~ "electricity for better prices than individuals can.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Een virtuele zonnestroomcentrale is een web-portaal waar "
+#~ "productiegegevens van eengroot aantal zonnepanelen\n"
+#~ "in het land wordt verzameld, samengevoegd en geanalyseerd.\n"
+#~ "Eigenaren van zonnepanelen kunen daarmee de presaties van hun panelen "
+#~ "controleren op het internet.\n"
+#~ "Wanneer er gebreken worden geconstateerd, ontvangt een eigenaar bericht "
+#~ "per e-mail.\n"
+#~ "In de toekomst kan de virtuele zonnestroomcentale als een cooperatie "
+#~ "handelen,door electriciteit voor een goede prijs te verkopen.\n"
+
+#~ msgid ""
+#~ "The idea of the virtual PV system is to monitor all electricity produced "
+#~ "by solar PV panels and to create 'one big panel' to increase the future "
+#~ "market force of solar electricity producers. Are you interested in "
+#~ "applying to this system?"
+#~ msgstr ""
+#~ "Het idee van de virtuele zonnestroomcentrale is om alle electriciteit "
+#~ "geproduceerdmet zonnepanelen te monitoren en dit als 'één groot "
+#~ "zonnepaneel' te presenteren. Dit om in de toekomst een grotere "
+#~ "marktwaarde voor zonnepanelen te creëren.Zou U hier aan willen meedoen?"

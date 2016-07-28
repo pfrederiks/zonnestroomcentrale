@@ -1,0 +1,75 @@
+{% load i18n %}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>{% block title %}{% trans "Research Project: Virtual PV Plant" %}{% endblock %}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Research project on a virtual PV Plant in the Netherlands" />
+<meta name="keywords" content="photovoltaics,solar,power,electricity,virtual" />
+<link href="{{ MEDIA_URL }}css/main.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<div id="language_select">
+<form action="/i18n/setlang/" method="post">
+<input name="next" type="hidden" value="" />
+{% ifequal LANGUAGE_CODE "nl" %}
+<input name="language" type="hidden" value="en" />
+<input type="submit" value="View this page in English" />
+{% endifequal %}
+{% ifequal LANGUAGE_CODE "en" %}
+<input name="language" type="hidden" value="nl" />
+<input type="submit" value="Bekijk deze Pagina in het Nederlands" />
+{% endifequal %}
+</form>
+{% if request.user.is_authenticated %}
+<a href="/accounts/logout/">{% trans "Log out" %}</a>
+{% endif %}
+</div>
+
+{% block header %}
+<div id="title">{% trans "Virtual PV Plant" %}</div>
+
+<div id="slogan">{% trans "Research on the development of a virtual PV Plant in the Netherlands" %}</div>
+{% endblock %}
+
+
+{% block nav %}
+<ul id="nav">
+<li><a {% ifequal section "introduction" %}class="selected"{% endifequal %} href="/">{% trans "Introduction" %}</a></li>
+<li><a {% ifequal section "prizes" %}class="selected"{% endifequal %} href="/prizes/">{% trans "Prizes" %}</a></li>
+{% if request.user.is_authenticated %}
+<li><a {% ifequal section "profile" %}class="selected"{% endifequal %} href="/accounts/profile/">{% trans "Profile" %}</a></li>
+{% else %}
+<li><a {% ifequal section "register" %}class="selected"{% endifequal %} href="/accounts/register/">{% trans "Register" %}</a></li>
+{% endif %}
+<li><a {% ifequal section "questionnaire" %}class="selected"{% endifequal %} href="/questionnaire/">{%trans "Questionnaire" %}</a></li>
+<li><a {% ifequal section "about" %}class="selected"{% endifequal %} href="/about/">{% trans "About" %}</a></li>
+</ul>
+{% endblock %}
+
+
+<div id="maincontent">
+
+{% block contents %}{% endblock %}
+
+
+</div>
+
+{% block footer %}
+<div id="footer">
+
+<div id="copyright">
+Copyright &copy; 2009 {% trans "Utrecht University" %}
+</div>
+
+<div id="footercontact">
+<a href="/about/#contact">{% trans "Contact" %}</a>
+</div>
+
+</div>
+{% endblock %}
+</body>
+</html>
+
+

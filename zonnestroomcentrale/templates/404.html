@@ -1,0 +1,14 @@
+{% extends "parent.html" %}
+
+{% block title %}404 Error{% endblock %}
+
+{% block contents %}
+<h1>404 Error</h1>
+<p>
+<img src="{{MEDIA_URL}}img/404.jpg" alt="404" />
+</p>
+<p>
+{% trans "The web page you requested is unavailable." %}
+</p>
+
+{% endblock %}

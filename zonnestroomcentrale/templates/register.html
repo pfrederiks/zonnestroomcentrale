@@ -1,0 +1,43 @@
+{% extends "parent.html" %}
+{% load i18n %}
+
+{% block contents %}
+<p>
+{% blocktrans %}
+Here you will be able to either register as a new respondent or login if you already registered.
+{% endblocktrans %}
+</p>
+
+<h1>{% trans "Register" %}</h1>
+{% if regform.errors %}
+<p class="errors">
+{% blocktrans %}
+Sorry, your registration could not be processed.
+{% endblocktrans %}
+</p>
+{% endif %}
+<table>
+<form action="/accounts/register/" method="POST">
+	{{ regform.as_table }}
+	<tr><td><input type="submit" value="{% trans "Register" %}" /></td></tr>
+</form>
+</table>
+<br />
+
+<h1>{% trans "Login" %}</h1>
+
+{% if failure %}
+<p class="errors">
+{% blocktrans %}
+Sorry, this user name and/or password is not recognized. Please register as a new user or try again.
+{% endblocktrans %}
+</p>
+{% endif %}
+<table>
+<form action="/accounts/login/" method="POST">
+	{{ loginform.as_table }}
+	<tr><td><input type="submit" value="{% trans "Login" %}" /></td></tr>
+</form>
+</table>
+{% endblock %}
+
